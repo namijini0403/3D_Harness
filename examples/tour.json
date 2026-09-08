@@ -1,0 +1,7 @@
+{
+  "start": "entrance",
+  "scenes": [
+    {"id": "entrance", "file": "entrance.jpg", "yaw_deg": 0, "links": [{"to": "hall", "yaw_deg": 30, "pitch_deg": -10}]},
+    {"id": "hall", "file": "hall.jpg", "yaw_deg": 0, "links": [{"to": "entrance", "yaw_deg": -150, "pitch_deg": -10}]}
+  ]
+}
