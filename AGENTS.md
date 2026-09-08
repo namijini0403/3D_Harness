@@ -8,7 +8,7 @@ Read `STATE.md` if present, then only the relevant `recipes/` file. Do not prelo
 - Stitched 360 photos + click-to-move: `recipes/tour.md` (default for this project).
 - Continuous positional movement: `recipes/reconstruction.md`; panoramas alone are not geometry.
 - Editable geometry, materials, camera or Blender diagnosis: `recipes/blender.md`.
-- Missing connection: `docs/setup.md`. Missing media: finish setup, then ask for one sample and its intended movement.
+- Missing connection: `docs/setup.md`; on Windows run its installer when setup is requested, then verify real MCP calls after restart. Missing media: finish setup, then ask for one sample and its intended movement.
 
 ## Work contract
 1. Inspect available files, one representative image and current output. State the likely failure and chosen route briefly. Infer routine details; ask only for missing facts that change the result.
